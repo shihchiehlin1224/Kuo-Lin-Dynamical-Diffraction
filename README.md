@@ -1,8 +1,9 @@
 # Kuo-Lin-Dynamic-Diffraction
 The is a GUI program to simulate the phase, reflectivity and photoemission rocking curves of single crystal.
-Authors: Cheng-Tai Kuo, Shih-Chieh Lin, Chuck S. Fadley
+Authors: Cheng-Tai Kuo, Shih-Chieh Lin, Charles S. Fadley
 
-Inputs
+Inputs:
+
 This program needs two types of input to implement the simulation:
 1. Material Information
 This file includes the lattice constant, atomic scattering factors and atomic position of each element.
