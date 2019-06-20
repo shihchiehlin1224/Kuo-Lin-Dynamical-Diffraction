@@ -24,6 +24,7 @@ Features:
 
 
 Authors' contribution:
-    Dr. Cheng-tai Kuo has develped dynamic diffraction theory on single crystal and implement the scientific simulation code which is used as backend of this program.
-    Shih-Chieh Lin has implemented the graphic user interface and integrated it with backend.
-    Prof. Chuck Fadley is the principal investigator of this project.
+
+Dr. Cheng-tai Kuo has develped dynamic diffraction theory on single crystal and implement the scientific simulation code which is used as backend of this program.
+Shih-Chieh Lin has implemented the graphic user interface and integrated it with backend.
+Prof. Chuck Fadley is the principal investigator of this project.
